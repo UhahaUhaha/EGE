@@ -27,7 +27,16 @@ def main():
         dictionary = json.loads(open(f, "r", encoding="UTF-8").read())
         for word in dictionary["list"]:
             words.append(Word(word))
+    try:
+        n = int(input(f"Введите количество слов (или нажмите Enter, чтобы запустить все слова)\nВсего {len(words)} слов\n"))
+    except:
+        n = len(words)
+    if 0 < n <= len(words):
+        pass
+    else:
+        n = len(words)
     random.shuffle(words)
+    words = words[:n]
     mistakes = []
     for index, word in enumerate(words):
         print_progress(index, len(words), 20)
