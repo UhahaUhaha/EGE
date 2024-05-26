@@ -1,0 +1,1341 @@
+{
+  "name": "Слова", 
+  "list": [
+    {
+      "word": "аэропорты", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "аэропОрты"
+    }, 
+    {
+      "word": "банты", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "бАнты"
+    }, 
+    {
+      "word": "бороду", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "бОроду"
+    }, 
+    {
+      "word": "бухгалтеров", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "бухгАлтеров"
+    }, 
+    {
+      "word": "вероисповедание", 
+      "context": [], 
+      "stress": 9, 
+      "capitalized": "вероисповЕдание"
+    }, 
+    {
+      "word": "водопровод", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "водопровОд"
+    }, 
+    {
+      "word": "газопровод", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "газопровОд"
+    }, 
+    {
+      "word": "гражданство", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "граждАнство"
+    }, 
+    {
+      "word": "дефис", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "дефИс"
+    }, 
+    {
+      "word": "дешевизна", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "дешевИзна"
+    }, 
+    {
+      "word": "диспансер", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "диспансЕр"
+    }, 
+    {
+      "word": "договорённость", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "договорЁнность"
+    }, 
+    {
+      "word": "документ", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "докумЕнт"
+    }, 
+    {
+      "word": "досуг", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "досУг"
+    }, 
+    {
+      "word": "еретик", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "еретИк"
+    }, 
+    {
+      "word": "жалюзи", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "жалюзИ"
+    }, 
+    {
+      "word": "значимость", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "знАчимость"
+    }, 
+    {
+      "word": "иксы", 
+      "context": [], 
+      "stress": 0, 
+      "capitalized": "Иксы"
+    }, 
+    {
+      "word": "каталог", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "каталОг"
+    }, 
+    {
+      "word": "квартал", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "квартАл"
+    }, 
+    {
+      "word": "километр", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "киломЕтр"
+    }, 
+    {
+      "word": "конусов", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "кОнусов"
+    }, 
+    {
+      "word": "корысть", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "корЫсть"
+    }, 
+    {
+      "word": "краны", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "крАны"
+    }, 
+    {
+      "word": "кремень", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "кремЕнь"
+    }, 
+    {
+      "word": "кремня", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "кремнЯ"
+    }, 
+    {
+      "word": "лекторов", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "лЕкторов"
+    }, 
+    {
+      "word": "локтя", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "лОктя"
+    }, 
+    {
+      "word": "локтей", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "локтЕй"
+    }, 
+    {
+      "word": "лыжня", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "лыжнЯ"
+    }, 
+    {
+      "word": "местностей", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "мЕстностей"
+    }, 
+    {
+      "word": "намерение", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "намЕрение"
+    }, 
+    {
+      "word": "нарост", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "нарОст"
+    }, 
+    {
+      "word": "недруг", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "нЕдруг"
+    }, 
+    {
+      "word": "недуг", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "недУг"
+    }, 
+    {
+      "word": "некролог", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "некролОг"
+    }, 
+    {
+      "word": "ненависть", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "нЕнависть"
+    }, 
+    {
+      "word": "нефтепровод", 
+      "context": [], 
+      "stress": 9, 
+      "capitalized": "нефтепровОд"
+    }, 
+    {
+      "word": "новостей", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "новостЕй"
+    }, 
+    {
+      "word": "ногтя", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "нОгтя"
+    }, 
+    {
+      "word": "ногтей", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "ногтЕй"
+    }, 
+    {
+      "word": "отзыв", 
+      "context": [
+        "о книге"
+      ], 
+      "stress": 0, 
+      "capitalized": "Отзыв"
+    }, 
+    {
+      "word": "отзыв", 
+      "context": [
+        "посла из страны"
+      ], 
+      "stress": 3, 
+      "capitalized": "отзЫв"
+    }, 
+    {
+      "word": "отрочество", 
+      "context": [], 
+      "stress": 0, 
+      "capitalized": "Отрочество"
+    }, 
+    {
+      "word": "партер", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "партЕр"
+    }, 
+    {
+      "word": "портфель", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "портфЕль"
+    }, 
+    {
+      "word": "поручни", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "пОручни"
+    }, 
+    {
+      "word": "приданое", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "придАное"
+    }, 
+    {
+      "word": "призыв", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "призЫв"
+    }, 
+    {
+      "word": "свёкла", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "свЁкла"
+    }, 
+    {
+      "word": "сироты", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "сирОты"
+    }, 
+    {
+      "word": "созыв", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "созЫв"
+    }, 
+    {
+      "word": "сосредоточение", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "сосредотОчение"
+    }, 
+    {
+      "word": "средства", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "срЕдства"
+    }, 
+    {
+      "word": "статуя", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "стАтуя"
+    }, 
+    {
+      "word": "столяр", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "столЯр"
+    }, 
+    {
+      "word": "таможня", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "тамОжня"
+    }, 
+    {
+      "word": "торты", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "тОрты"
+    }, 
+    {
+      "word": "туфля", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "тУфля"
+    }, 
+    {
+      "word": "цемент", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "цемЕнт"
+    }, 
+    {
+      "word": "центнер", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "цЕнтнер"
+    }, 
+    {
+      "word": "цепочка", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "цепОчка"
+    }, 
+    {
+      "word": "шарфы", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "шАрфы"
+    }, 
+    {
+      "word": "шофёр", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "шофЁр"
+    }, 
+    {
+      "word": "эксперт", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "экспЕрт"
+    }, 
+    {
+      "word": "верна", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "вернА"
+    }, 
+    {
+      "word": "значимый", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "знАчимый"
+    }, 
+    {
+      "word": "красивее", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "красИвее"
+    }, 
+    {
+      "word": "кухонный", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "кУхонный"
+    }, 
+    {
+      "word": "ловка", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "ловкА"
+    }, 
+    {
+      "word": "мозаичный", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "мозаИчный"
+    }, 
+    {
+      "word": "оптовый", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "оптОвый"
+    }, 
+    {
+      "word": "прозорливый", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "прозорлИвый"
+    }, 
+    {
+      "word": "прозорлива", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "прозорлИва"
+    }, 
+    {
+      "word": "сливовый", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "слИвовый"
+    }, 
+    {
+      "word": "брала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "бралА"
+    }, 
+    {
+      "word": "бралась", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "бралАсь"
+    }, 
+    {
+      "word": "взяла", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "взялА"
+    }, 
+    {
+      "word": "взялась", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "взялАсь"
+    }, 
+    {
+      "word": "влилась", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "влилАсь"
+    }, 
+    {
+      "word": "ворвалась", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "ворвалАсь"
+    }, 
+    {
+      "word": "воспринять", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "воспринЯть"
+    }, 
+    {
+      "word": "восприняла", 
+      "context": [], 
+      "stress": 9, 
+      "capitalized": "воспринялА"
+    }, 
+    {
+      "word": "воссоздала", 
+      "context": [], 
+      "stress": 9, 
+      "capitalized": "воссоздалА"
+    }, 
+    {
+      "word": "вручит", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "вручИт"
+    }, 
+    {
+      "word": "гнала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "гналА"
+    }, 
+    {
+      "word": "гналась", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "гналАсь"
+    }, 
+    {
+      "word": "добрала", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "добралА"
+    }, 
+    {
+      "word": "добралась", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "добралАсь"
+    }, 
+    {
+      "word": "дождалась", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "дождалАсь"
+    }, 
+    {
+      "word": "дозвонится", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "дозвонИтся"
+    }, 
+    {
+      "word": "дозировать", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "дозИровать"
+    }, 
+    {
+      "word": "ждала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "ждалА"
+    }, 
+    {
+      "word": "жилось", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "жилОсь"
+    }, 
+    {
+      "word": "закупорить", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "закУпорить"
+    }, 
+    {
+      "word": "занять", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "занЯть"
+    }, 
+    {
+      "word": "занял", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАнял"
+    }, 
+    {
+      "word": "заняла", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "занялА"
+    }, 
+    {
+      "word": "заняли", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАняли"
+    }, 
+    {
+      "word": "заперла", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "заперлА"
+    }, 
+    {
+      "word": "запломбировать", 
+      "context": [], 
+      "stress": 11, 
+      "capitalized": "запломбировАть"
+    }, 
+    {
+      "word": "защемит", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "защемИт"
+    }, 
+    {
+      "word": "звала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "звалА"
+    }, 
+    {
+      "word": "звонит", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "звонИт"
+    }, 
+    {
+      "word": "кашлянуть", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "кАшлянуть"
+    }, 
+    {
+      "word": "клала", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "клАла"
+    }, 
+    {
+      "word": "клеить", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "клЕить"
+    }, 
+    {
+      "word": "кралась", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "крАлась"
+    }, 
+    {
+      "word": "кровоточить", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "кровоточИть"
+    }, 
+    {
+      "word": "лгала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "лгалА"
+    }, 
+    {
+      "word": "лила", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "лилА"
+    }, 
+    {
+      "word": "лилась", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "лилАсь"
+    }, 
+    {
+      "word": "наврала", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "навралА"
+    }, 
+    {
+      "word": "начать", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "начАть"
+    }, 
+    {
+      "word": "начал", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "нАчал"
+    }, 
+    {
+      "word": "начала", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "началА"
+    }, 
+    {
+      "word": "начали", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "нАчали"
+    }, 
+    {
+      "word": "обзвонит", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "обзвонИт"
+    }, 
+    {
+      "word": "облегчить", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "облегчИть"
+    }, 
+    {
+      "word": "облегчит", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "облегчИт"
+    }, 
+    {
+      "word": "облилась", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "облилАсь"
+    }, 
+    {
+      "word": "обнялась", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "обнялАсь"
+    }, 
+    {
+      "word": "обогнала", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "обогналА"
+    }, 
+    {
+      "word": "ободрала", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "ободралА"
+    }, 
+    {
+      "word": "ободрить", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "ободрИть"
+    }, 
+    {
+      "word": "ободрит", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "ободрИт"
+    }, 
+    {
+      "word": "ободриться", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "ободрИться"
+    }, 
+    {
+      "word": "ободрится", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "ободрИтся"
+    }, 
+    {
+      "word": "обострить", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "обострИть"
+    }, 
+    {
+      "word": "одолжить", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "одолжИть"
+    }, 
+    {
+      "word": "одолжит", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "одолжИт"
+    }, 
+    {
+      "word": "озлобить", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "озлОбить"
+    }, 
+    {
+      "word": "оклеить", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "оклЕить"
+    }, 
+    {
+      "word": "окружит", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "окружИт"
+    }, 
+    {
+      "word": "опошлить", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "опОшлить"
+    }, 
+    {
+      "word": "осведомиться", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "освЕдомиться"
+    }, 
+    {
+      "word": "осведомится", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "освЕдомится"
+    }, 
+    {
+      "word": "отбыла", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "отбылА"
+    }, 
+    {
+      "word": "отдала", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "отдалА"
+    }, 
+    {
+      "word": "откупорить", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "откУпорить"
+    }, 
+    {
+      "word": "отозвала", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "отозвалА"
+    }, 
+    {
+      "word": "отозвалась", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "отозвалАсь"
+    }, 
+    {
+      "word": "перезвонит", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "перезвонИт"
+    }, 
+    {
+      "word": "перелила", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "перелилА"
+    }, 
+    {
+      "word": "плодоносить", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "плодоносИть"
+    }, 
+    {
+      "word": "пломбировать", 
+      "context": [], 
+      "stress": 9, 
+      "capitalized": "пломбировАть"
+    }, 
+    {
+      "word": "повторит", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "повторИт"
+    }, 
+    {
+      "word": "позвала", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "позвалА"
+    }, 
+    {
+      "word": "позвонит", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "позвонИт"
+    }, 
+    {
+      "word": "полила", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "полилА"
+    }, 
+    {
+      "word": "положить", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "положИть"
+    }, 
+    {
+      "word": "положил", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "положИл"
+    }, 
+    {
+      "word": "понять", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "понЯть"
+    }, 
+    {
+      "word": "поняла", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "понялА"
+    }, 
+    {
+      "word": "послала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "послАла"
+    }, 
+    {
+      "word": "прибыть", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "прибЫть"
+    }, 
+    {
+      "word": "прибыл", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "прИбыл"
+    }, 
+    {
+      "word": "прибыла", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "прибылА"
+    }, 
+    {
+      "word": "прибыли", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "прИбыли"
+    }, 
+    {
+      "word": "принять", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "принЯть"
+    }, 
+    {
+      "word": "принял", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "прИнял"
+    }, 
+    {
+      "word": "приняла", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "принялА"
+    }, 
+    {
+      "word": "приняли", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "прИняли"
+    }, 
+    {
+      "word": "рвала", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "рвалА"
+    }, 
+    {
+      "word": "сверлит", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "сверлИт"
+    }, 
+    {
+      "word": "сняла", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "снялА"
+    }, 
+    {
+      "word": "соврала", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "совралА"
+    }, 
+    {
+      "word": "создала", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "создалА"
+    }, 
+    {
+      "word": "сорвала", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "сорвалА"
+    }, 
+    {
+      "word": "сорит", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "сорИт"
+    }, 
+    {
+      "word": "убрала", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "убралА"
+    }, 
+    {
+      "word": "углубить", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "углубИть"
+    }, 
+    {
+      "word": "укрепит", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "укрепИт"
+    }, 
+    {
+      "word": "черпать", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "чЕрпать"
+    }, 
+    {
+      "word": "щемит", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "щемИт"
+    }, 
+    {
+      "word": "щёлкать", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "щЁлкать"
+    }, 
+    {
+      "word": "довезённый", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "довезЁнный"
+    }, 
+    {
+      "word": "загнутый", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАгнутый"
+    }, 
+    {
+      "word": "занятый", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАнятый"
+    }, 
+    {
+      "word": "занята", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "занятА"
+    }, 
+    {
+      "word": "запертый", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАпертый"
+    }, 
+    {
+      "word": "заселённый", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "заселЁнный"
+    }, 
+    {
+      "word": "заселена", 
+      "context": [], 
+      "stress": 7, 
+      "capitalized": "заселенА"
+    }, 
+    {
+      "word": "кормящий", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "кормЯщий"
+    }, 
+    {
+      "word": "кровоточащий", 
+      "context": [], 
+      "stress": 8, 
+      "capitalized": "кровоточАщий"
+    }, 
+    {
+      "word": "наживший", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "нажИвший"
+    }, 
+    {
+      "word": "наливший", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "налИвший"
+    }, 
+    {
+      "word": "нанявшийся", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "нанЯвшийся"
+    }, 
+    {
+      "word": "начавший", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "начАвший"
+    }, 
+    {
+      "word": "начатый", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "нАчатый"
+    }, 
+    {
+      "word": "низведённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "низведЁнный"
+    }, 
+    {
+      "word": "облегчённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "облегчЁнный"
+    }, 
+    {
+      "word": "ободрённый", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "ободрЁнный"
+    }, 
+    {
+      "word": "обострённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "обострЁнный"
+    }, 
+    {
+      "word": "отключённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "отключЁнный"
+    }, 
+    {
+      "word": "повторённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "повторЁнный"
+    }, 
+    {
+      "word": "поделённый", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "поделЁнный"
+    }, 
+    {
+      "word": "понявший", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "понЯвший"
+    }, 
+    {
+      "word": "принятый", 
+      "context": [], 
+      "stress": 2, 
+      "capitalized": "прИнятый"
+    }, 
+    {
+      "word": "принята", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "принятА"
+    }, 
+    {
+      "word": "приручённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "приручЁнный"
+    }, 
+    {
+      "word": "проживший", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "прожИвший"
+    }, 
+    {
+      "word": "снята", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "снятА"
+    }, 
+    {
+      "word": "согнутый", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "сОгнутый"
+    }, 
+    {
+      "word": "углублённый", 
+      "context": [], 
+      "stress": 6, 
+      "capitalized": "углублЁнный"
+    }, 
+    {
+      "word": "закупорив", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "закУпорив"
+    }, 
+    {
+      "word": "начав", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "начАв"
+    }, 
+    {
+      "word": "начавшись", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "начАвшись"
+    }, 
+    {
+      "word": "отдав", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "отдАв"
+    }, 
+    {
+      "word": "подняв", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "поднЯв"
+    }, 
+    {
+      "word": "поняв", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "понЯв"
+    }, 
+    {
+      "word": "прибыв", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "прибЫв"
+    }, 
+    {
+      "word": "создав", 
+      "context": [], 
+      "stress": 4, 
+      "capitalized": "создАв"
+    }, 
+    {
+      "word": "вовремя", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "вОвремя"
+    }, 
+    {
+      "word": "доверху", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "дОверху"
+    }, 
+    {
+      "word": "донельзя", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "донЕльзя"
+    }, 
+    {
+      "word": "донизу", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "дОнизу"
+    }, 
+    {
+      "word": "досуха", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "дОсуха"
+    }, 
+    {
+      "word": "засветло", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАсветло"
+    }, 
+    {
+      "word": "затемно", 
+      "context": [], 
+      "stress": 1, 
+      "capitalized": "зАтемно"
+    }, 
+    {
+      "word": "надолго", 
+      "context": [], 
+      "stress": 3, 
+      "capitalized": "надОлго"
+    }, 
+    {
+      "word": "ненадолго", 
+      "context": [], 
+      "stress": 5, 
+      "capitalized": "ненадОлго"
+    }
+  ]
+}
