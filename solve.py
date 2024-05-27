@@ -1,6 +1,7 @@
 import json
 import os
 import random
+vowels = "уеыаоэяиюё"
 
 
 class Word:
@@ -9,6 +10,14 @@ class Word:
         self.context = word_as_dict["context"]
         self.stress = word_as_dict["stress"]
         self.capitalized = word_as_dict["capitalized"]
+        vowel = 0
+        for i in range(len(self.word)):
+            if self.word[i] not in vowels:
+                continue
+            if i == self.stress:
+                self.stress = vowel
+            vowel += 1
+        self.cnt = vowel
 
 
 def print_progress(current, total, bars):
@@ -40,16 +49,22 @@ def main():
     mistakes = []
     for index, word in enumerate(words):
         print_progress(index, len(words), 20)
-        symbol_length = len(str(len(word.word))) + 1
+        symbol_length = len(str(word.cnt)) + 1
         print(word.word, end=" ")
         if word.context:
             print("(", *word.context, ")", end='')
         print()
         for i in range(symbol_length):
             print(" " * i, end='')
+            vowel = 0
             for j, c in enumerate(word.word):
                 if j % symbol_length == i:
-                    print(str(j + 1).ljust(symbol_length), end="")
+                    if c in vowels:
+                        print(str(vowel + 1).ljust(symbol_length), end="")
+                    else:
+                        print("".ljust(symbol_length), end='')
+                if c in vowels:
+                    vowel += 1
             print()
         waiting_for_input = True
         while waiting_for_input:
